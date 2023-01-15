@@ -349,7 +349,6 @@ margin-bottom: 32px;
     width: calc((100%-150px)/6);
 }
 
-
 .customers-link {
     width: 100%;
     height: 100%;
@@ -369,7 +368,6 @@ margin-bottom: 32px;
 .customers-icon {
     fill: currentColor;
 }
-
   .portfolio {
     padding-top: 96px;
     padding-bottom: 120px;
@@ -395,7 +393,7 @@ margin-bottom: 32px;
 }
 
  /* .buttons-item {}   */
- 
+
 .buttons-btn {
     color: var(--brand-color-blue);
     background-color: #F4F4FD;
